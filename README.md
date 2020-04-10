@@ -1,6 +1,7 @@
 # Blog-Web-App
 
 This is a simple Blog website built using Python Flask Framework
+
 Features: Registration Form, Login Form, New Post, All Posts
 
 
